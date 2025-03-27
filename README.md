@@ -33,14 +33,6 @@
   
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajvishwakarma&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvishwakarma&theme=radical" width="48%" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💡 **Projects**
 ### 🛠 **1. CRM System**
 - **Tech Stack**: React.js, PHP, MySQL
@@ -50,20 +42,11 @@
 - **Tech Stack**: React.js, JSON-based storage
 - **Features**: Total Sales, Payment Breakdown, Buyer Insights
 
-### 🏬 **3. Laundry Service App**
-- **Tech Stack**: Laravel (API), PHP (Frontend)
-- **Features**: Order management, real-time notifications, role-based access
-
-🔗 **More Projects**: [GitHub Repositories](https://github.com/rajvishwakarma?tab=repositories)
-
 ---
 
 ## 📞 **Let's Connect**
-📧 Email: your-email@example.com  
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-🚀 GitHub: [github.com/rajvishwakarma](https://github.com/rajvishwakarma)  
+📧 Email: rajeevvishwakarma04@gmail.com  
+💼 LinkedIn: [linkedin.com/in/rajeev-vishwakarma-118a99357](https://www.linkedin.com/in/rajeev-vishwakarma-118a99357)
 
 ---
-
 🔥 **Open to Freelance & Full-time opportunities!** Let’s build something amazing together! 🚀
