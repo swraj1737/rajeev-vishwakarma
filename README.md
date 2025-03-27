@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rajeev Vishwakarma 👋</h1>
-<h3 align="center">Full-Stack Developer | React.js, Vue.js, Laravel, PHP | 6+ Years Experience</h3>
+<h3 align="center">Full-Stack Developer | React.js, PHP, MySQL | 5+ Years Experience</h3>
 
-🌟 Passionate **Full-Stack Developer** with **6+ years** of experience in building scalable web applications. I specialize in **React.js, Vue.js, Laravel, and PHP**, with expertise in both **frontend & backend development**. Currently looking for a new opportunity to contribute my skills to impactful projects.  
+🌟 Passionate **Full-Stack Developer** with **5+ years** of experience in building scalable web applications. I specialize in **React.js, PHP and MySQL**, with expertise in both **frontend & backend development**. Currently looking for a new opportunity to contribute my skills to impactful projects.  
 
 ---
 
@@ -9,27 +9,25 @@
 - 🔭 **Current Role**: PHP Full-Stack Developer  
 - 🌱 **Learning**: System Design, Performance Optimization, and DSA  
 - 🎯 **Looking for**: Full-time **React.js Developer** role  
-- 📫 **Reach me**: [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 **Reach me**: [Email](mailto:rajeevvishwakarma04@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
 
 ## 🛠 **Tech Stack**
 ### 🚀 **Frontend**
-- **React.js, Vue.js, Next.js, Nuxt.js**
+- **React.js, Next.js**
 - **JavaScript (ES6+), TypeScript**
-- **Redux, Zustand, Context API**
+- **Redux, Context API**
 - **Bootstrap, Tailwind CSS, SCSS**
 - **HTML5, CSS3, Media Queries, Responsive Design**
 
 ### ⚙ **Backend**
-- **Laravel, PHP, Node.js (Express.js)**
+- **PHP**
 - **REST API, GraphQL, JWT Authentication**
 - **MySQL, PostgreSQL, MongoDB**
-- **Redis, Caching, API Security**
   
 ### 🔧 **DevOps & Tools**
-- **Git, GitHub, GitLab, Bitbucket**
-- **Docker, CI/CD Pipelines**
+- **Git, GitHub**
 - **Jest, React Testing Library**
 - **Scrum & Agile Methodologies**
   
@@ -45,7 +43,7 @@
 
 ## 💡 **Projects**
 ### 🛠 **1. CRM System**
-- **Tech Stack**: React.js, Laravel, MySQL
+- **Tech Stack**: React.js, PHP, MySQL
 - **Features**: Role-based access, bulk customer import, task management, analytics dashboard
 
 ### 🏷 **2. Sales Dashboard**
