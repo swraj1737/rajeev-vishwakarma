@@ -9,7 +9,7 @@
 - 🔭 **Current Role**: PHP Full-Stack Developer  
 - 🌱 **Learning**: System Design, Performance Optimization, and DSA  
 - 🎯 **Looking for**: Full-time **React.js Developer** role  
-- 📫 **Reach me**: [Email](mailto:rajeevvishwakarma04@gmail.com) | [LinkedIn](linkedin.com/in/rajeev-vishwakarma-118a99357)  
+- 📫 **Reach me**: [Email](mailto:rajeevvishwakarma04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rajeev-vishwakarma-118a99357)  
 
 ---
 
