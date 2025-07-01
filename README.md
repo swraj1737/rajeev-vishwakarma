@@ -28,7 +28,6 @@
   
 ### 🔧 **DevOps & Tools**
 - **Git, GitHub**
-- **Jest, React Testing Library**
 - **Scrum & Agile Methodologies**
   
 ---
